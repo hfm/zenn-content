@@ -3,7 +3,7 @@ title: "Claude Code GitHub Actions は Forked PR のコメントで呼ぶとコ�
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai", "claudecode", "github"]
-published: false
+published: true
 ---
 
 [Claude Code GitHub Actions](https://docs.claude.com/en/docs/claude-code/github-actions) は現在 (2025/10/03)、Fork 先から出された Pull Request の中で、「@claude ほげふが」などコメントによって Claude Code を呼び出そうとしてもうまく動かない。以下の Issues で言及されている既知のもの。
